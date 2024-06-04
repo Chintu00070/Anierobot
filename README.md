@@ -24,7 +24,7 @@
 
 <h2 align="center";>OWNER</h2>
 
-<p align='center'>   <a href="https://t.me/Godfatherakki"> <img src="https://img.shields.io/badge/Owner-Akki-red?style=for-the-badge&logo=telegram" /></a> </p>
+<p align='center'>   <a href="https://t.me/Chintu00070"> <img src="https://img.shields.io/badge/Owner-Akki-red?style=for-the-badge&logo=telegram" /></a> </p>
 
 <h2 align="center";> Manual Deploy Tutorial</h2>
 
@@ -81,7 +81,7 @@ I'll also help when a database schema changes, and some table column needs to be
 Join the [news channel](https://t.me/Aniebots) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/Godfatherakki)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/Chintu00070)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## Starting the bot.
 
